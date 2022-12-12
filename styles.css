@@ -1,0 +1,21 @@
+.container{
+    width:1200px;
+    margin:0 auto;
+}
+
+.heading{
+    background-color: rgb(184, 180, 180);
+    text-align: center;
+    padding:15px,0px;
+}
+
+section{
+    border: 1px solid;
+    padding: 10px;
+    text-transform: uppercase;
+    color:rgb(40, 40, 40);
+}
+
+section.about-me{
+    margin-bottom:40px;
+}
